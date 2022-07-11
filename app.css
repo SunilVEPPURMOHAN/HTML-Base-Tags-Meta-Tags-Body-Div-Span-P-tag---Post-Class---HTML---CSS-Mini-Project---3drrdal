@@ -127,12 +127,12 @@ section {
 
 .left-section {
     grid-column: span 1;
-    background-color: #a5ecdb;
+    background-color: #a5deec;
 }
 
 .right-section {
     grid-column: span 1/span 2;
-    background-color: #f8a182;
+    background-color: #8e82f8;
 }
 
 .left-content {
