@@ -224,6 +224,16 @@ section {
     padding-bottom: 0.5rem;
 }
 
+.skill-item {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+padding-bottom: 0.5rem;
+}
+
 .right-main-content {
     padding-top: 2rem;
     padding-bottom: 2rem;
