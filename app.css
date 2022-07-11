@@ -260,3 +260,10 @@ section {
         grid-template-columns: repeat(1, 1fr);
     }
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
